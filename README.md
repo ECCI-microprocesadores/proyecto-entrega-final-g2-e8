@@ -43,6 +43,17 @@ Lenguaje de programación C
 
 ## Procedimiento e Implementación
 
+## Codigos
+
+## Códigos del Laboratorio PWM
+
+- [Archivo comprimido del proyecto](./CODIGOS/12.X.zip)
+
+
+
+
+
+
 ## Configuración inicial:
 
 Se instaló un sensor que mide dos cosas: qué tan caliente está el ambiente (temperatura) y cuánta humedad hay en el aire.
@@ -50,6 +61,7 @@ Se instaló un sensor que mide dos cosas: qué tan caliente está el ambiente (t
 Se conectó una pantalla para mostrar estos valores en tiempo real.
 
 ## Programación del sistema:
+
 
 El microcontrolador fue programado para leer la información del sensor cada cierto segundo.
 
