@@ -47,7 +47,7 @@ Lenguaje de programación C
 
 ## Códigos del Laboratorio PWM
 
-- [Archivo comprimido del proyecto](./CODIGOS/12.X.zip)
+- [Archivo comprimido del proyecto](./CODIGO/12.X.zip)
 
 
 
