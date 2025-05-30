@@ -84,7 +84,7 @@ Todo esto ocurría de forma automática, sin necesidad de que alguien lo control
 ![MONTAJE4](./IMAGENES/MONTAJE4.jpeg)
 
 ## Proteus
-![PROTEUS](./IMAGENES/PROTEUS.jpeg)
+![PROTEUS](./PROTEUS/PROTEUS.jpeg)
 ### Conclusiones
 
 El sistema logró funcionar correctamente: leyó la temperatura y la humedad, mostró los datos en pantalla, y encendió los actuadores cuando fue necesario.
