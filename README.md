@@ -74,7 +74,14 @@ Lo mismo ocurría con la humedad: si estaba por debajo de 40%, la resistencia no
 Todo esto ocurría de forma automática, sin necesidad de que alguien lo controle manualmente.
 
 
-### Diagramas
+### Diagramas e imagenes 
+
+## montaje
+
+![MONTAJE1](./IMAGENES/MONTAJE1.jpeg)
+![MONTAJE2](./IMAGENES/MONTAJE2.jpeg)
+![MONTAJE3](./IMAGENES/MONTAJE3.jpeg)
+![MONTAJE4](./IMAGENES/MONTAJE4.jpeg)
 
 
 ### Conclusiones
