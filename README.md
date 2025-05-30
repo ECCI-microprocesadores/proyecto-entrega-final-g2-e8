@@ -76,14 +76,15 @@ Todo esto ocurría de forma automática, sin necesidad de que alguien lo control
 
 ### Diagramas e imagenes 
 
-## montaje
+## Montaje
 
 ![MONTAJE1](./IMAGENES/MONTAJE1.jpeg)
 ![MONTAJE2](./IMAGENES/MONTAJE2.jpeg)
 ![MONTAJE3](./IMAGENES/MONTAJE3.jpeg)
 ![MONTAJE4](./IMAGENES/MONTAJE4.jpeg)
 
-
+## Proteus
+![PROTEUS](./IMAGENES/PROTEUS.jpeg)
 ### Conclusiones
 
 El sistema logró funcionar correctamente: leyó la temperatura y la humedad, mostró los datos en pantalla, y encendió los actuadores cuando fue necesario.
