@@ -88,7 +88,7 @@ Todo esto ocurría de forma automática, sin necesidad de que alguien lo control
 ![PROTEUS](./PROTEUS/PROTEUS.jpeg)
 
 ## Diapositivas 
-
+(Dar click en el enlace)
 ![DIAPOSITIVAS](./DIAPOSITIVAS/Presentacion.pdf)
 
 ### Conclusiones
