@@ -77,6 +77,7 @@ Si la humedad pasaba el 40%, se encendía una resistencia que genera calor  se p
 
 ## Video del Proyecto 
 
+(LINK DE DESCARGUE)
 [Ver video demostrativo](./VIDEO/VIDEODELPROYECTOFUNCIONANDO.mp4)
 
 
