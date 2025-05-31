@@ -45,17 +45,17 @@ Lenguaje de programación C
 
 ## Codigos
 
-## Códigos del Laboratorio PWM
+## Códigos del Laboratorio 
 
 - [Archivo comprimido del proyecto](./CODIGO/12.X.zip)
 
 - [CODIGO CON LAS INSTRUCCIONES DEL CODIGO PRINCIPAL](./CODIGO/12.X/11.c)
 - [CONTROLAR EL SENSOR.H ](./CODIGO/12.X/dht11.h)
 - [CONTROLAR EL SENSOR.C](./CODIGO/12.X/dht11.c)
-- [COMUNICACION IOC.C](./CODIGO/12.X/i2c.c)
-- [COMUNICACION IOC.H](./CODIGO/12.X/i2c.h)
-- [CONTRLAR LA LCD Y ENVIAR DATOS IOC.C](./CODIGO/12.X/lcd_i2c.c)
-- [CONTRLAR LA LCD Y ENVIAR DATOS IOC.H](./CODIGO/12.X/lcd_i2c.h)
+- [COMUNICACION I2C.C](./CODIGO/12.X/i2c.c)
+- [COMUNICACION I2C.H](./CODIGO/12.X/i2c.h)
+- [CONTRLAR LA LCD Y ENVIAR DATOS I2C.C](./CODIGO/12.X/lcd_i2c.c)
+- [CONTRLAR LA LCD Y ENVIAR DATOS I2C.H](./CODIGO/12.X/lcd_i2c.h)
 - [INSTRUCCIONES DE CABECERA.H](./CODIGO/12.X/main.h)
 
 ## Configuración inicial:
