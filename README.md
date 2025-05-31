@@ -113,6 +113,10 @@ Todo esto ocurría de forma automática, sin necesidad de que alguien lo control
 (Dar click en el enlace)
 ![DIAPOSITIVAS](./DIAPOSITIVAS/Presentacion.pdf)
 
+## Diagrama
+
+
+
 ### Conclusiones
 
 El sistema logró funcionar correctamente: leyó la temperatura y la humedad, mostró los datos en pantalla, y encendió los actuadores cuando fue necesario.
