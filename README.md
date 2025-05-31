@@ -58,9 +58,6 @@ Lenguaje de programación C
 - [CONTRLAR LA LCD Y ENVIAR DATOS IOC.H](./CODIGO/12.X/lcd_i2c.h)
 - [INSTRUCCIONES DE CABECERA.H](./CODIGO/12.X/main.h)
 
-
-
-
 ## Configuración inicial:
 
 Se instaló un sensor que mide dos cosas: qué tan caliente está el ambiente (temperatura) y cuánta humedad hay en el aire.
@@ -76,7 +73,12 @@ Si la temperatura pasaba los 25 grados Celsius, se encendía un ventilador se pr
 
 Si la humedad pasaba el 40%, se encendía una resistencia que genera calor  se prendia el led azul
 
-## Visualización:
+## Visualización: 
+
+## Video del Proyecto 
+
+[Ver video demostrativo](./VIDEO/VIDEODELPROYECTOFUNCIONANDO.mp4)
+
 
 En la pantalla se mostraban los valores actuales de temperatura y humedad.
 
