@@ -115,6 +115,7 @@ Todo esto ocurría de forma automática, sin necesidad de que alguien lo control
 
 ## Diagrama
 
+![DIAGRAMA DE FLUJO](./DIAGRAMA/Diagrama.png)
 
 
 ### Conclusiones
